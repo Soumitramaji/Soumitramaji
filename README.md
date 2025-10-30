@@ -58,7 +58,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:soumitra.maji2013@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
   &nbsp;
