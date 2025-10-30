@@ -65,9 +65,8 @@
   </a>
   &nbsp;&nbsp;
   <!-- GitHub -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+  <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>
 </p>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /> </a>
 
