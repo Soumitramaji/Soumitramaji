@@ -54,6 +54,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumitramaji&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+
 📫 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/soumitra-maji" target="_blank">
