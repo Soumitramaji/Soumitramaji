@@ -54,18 +54,17 @@
 📫 Connect With Me
 
 <p align="center">
-  <!-- LinkedIn Icon -->
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/soumitra-maji" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <!-- Gmail Icon + Text -->
-  <a href="mailto:soumitra.maji2013@gmail.com" style="text-decoration:none; color:#D14836;" target="_blank" rel="noopener noreferrer">
+  <!-- Gmail -->
+  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-    <br/>Email Me
   </a>
   &nbsp;&nbsp;
-  <!-- GitHub Icon -->
+  <!-- GitHub -->
   <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
