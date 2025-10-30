@@ -8,7 +8,6 @@
 ---
 
 🛠️ Currently Working With
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,postman,html,css,js" />
 </p>
@@ -31,16 +30,18 @@
 ---
 
 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=soumitramaji&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=soumitramaji&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&line_height=28" 
+       alt="GitHub stats" 
+       width="47%" 
+       height="180" />
+  <img 
+       src="https://streak-stats.demolab.com?user=soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" 
+       alt="GitHub Streak" 
+       width="47%" 
+       height="180" />
+</p>
 
 ---
 
