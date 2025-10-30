@@ -65,7 +65,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- GitHub -->
-  <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
 </p>
