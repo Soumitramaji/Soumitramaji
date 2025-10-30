@@ -52,16 +52,7 @@
 ---
 
 📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/soumitra-maji" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
-</p>
 
----
 <p align="center">
   <a href="https://linkedin.com/in/soumitra-maji" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
@@ -75,35 +66,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>
 </p>
+---
 
-
-
-
-<p align="center">
-  <a href="https://linkedin.com/in/soumitra-maji" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://linkedin.com/in/soumitra-maji" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 
