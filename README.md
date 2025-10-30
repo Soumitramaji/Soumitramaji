@@ -62,5 +62,17 @@
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://linkedin.com/in/soumitra-maji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+</p>
 
