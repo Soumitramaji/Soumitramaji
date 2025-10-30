@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=header&text=Hey%20👋%20I%20am%20Soumitra%20Maji&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Lifelong+Learner+%26+Creator" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <b>Full Stack Web Developer</b> passionate about building modern, scalable, and user-focused web applications.<br/>
