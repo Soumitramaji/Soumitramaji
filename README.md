@@ -46,14 +46,10 @@
        width="47%" 
        height="180" />
   <img 
-       src="https://streak-stats.demolab.com?user=soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" 
+       src="https://streak-stats.demolab.com?user=soumitramaji&theme=tokyonight&hide_border=false&border_radius=5&line_height=28" 
        alt="GitHub Streak" 
        width="47%" 
        height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitramaji&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" alt="Top Languages" width="47%" />
 </p>
 
 ---
