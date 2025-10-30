@@ -60,7 +60,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="mailto:soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumitra.maji2013@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
