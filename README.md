@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Lifelong+Learner+%26+Creator" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitramaji&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" alt="Top Languages" width="47%" />
-</p>
+
 
 
 <p align="center">
@@ -52,6 +50,10 @@
        alt="GitHub Streak" 
        width="47%" 
        height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitramaji&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" alt="Top Languages" width="47%" />
 </p>
 
 ---
