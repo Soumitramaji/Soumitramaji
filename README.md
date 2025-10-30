@@ -33,7 +33,7 @@
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumitramaji&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
