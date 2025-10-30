@@ -33,7 +33,7 @@
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumitramaji&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumitramaji&theme=tokyonight" alt="GitHub streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Soumitramaji&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:soumitra.maji2013@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
 </p>
 
 ---
