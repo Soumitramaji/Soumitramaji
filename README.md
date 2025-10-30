@@ -66,7 +66,7 @@
   &nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/soumitramaji" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
   </a>
 </p>
 
