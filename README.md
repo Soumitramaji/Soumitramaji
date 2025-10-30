@@ -1,6 +1,11 @@
 <h2 align="center">Hey 👋 I'm Soumitra Maji</h2>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=header&text=Hey%20👋%20I%20am%20Soumitra%20Maji&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</p>
+
+
+<p align="center">
   <b>Full Stack Web Developer</b> passionate about building modern, scalable, and user-focused web applications.<br/>
   I love working across the stack — from crafting responsive UI to designing robust backend APIs.
 </p>
